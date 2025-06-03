@@ -5,7 +5,7 @@
 <head>
   <meta charset="UTF-8"> <!-- 日本語を正しく表示するための設定 -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>○○のポートフォリオ</title> <!-- タブに表示されるタイトル -->
+  <title>popaipoのポートフォリオ</title> <!-- タブに表示されるタイトル -->
 </head>
 <body>
   <h1>こんにちは！○○です</h1> <!-- 一番大きな見出し -->
