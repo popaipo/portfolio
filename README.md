@@ -17,8 +17,8 @@
 
   <h2>📂 作品一覧</h2>
   <ul> <!-- 箇条書き -->
-    <li>作品A：〇〇アプリ</li>
-    <li>作品B：△△サイト</li>
-  </ul>
+    <li><a href="https://example.com/todo-app" target="_blank">作品A：すごいTodoアプリ</a></li>
+  <li><a href="https://example.com/diary" target="_blank">作品B：日記サイト</a></li>
+</ul>
 </body>
 </html>
