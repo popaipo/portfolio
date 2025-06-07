@@ -1,0 +1,30 @@
+/* ページ全体の背景と文字設定 */
+body {
+  background-color: #f0f8ff; /* 薄い水色 */
+  font-family: sans-serif;
+  color: #333;
+  margin: 40px;
+}
+
+/* タイトルを中央にして大きく */
+h1 {
+  text-align: center;
+  font-size: 36px;
+  color: #2a7ae2;
+}
+
+/* セクションタイトルの色 */
+h2 {
+  color: #1d3557;
+}
+
+/* 普通の文章 */
+p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+/* 箇条書きのマーク位置を少し左に寄せる */
+ul {
+  padding-left: 20px;
+}
