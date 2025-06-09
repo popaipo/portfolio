@@ -1,4 +1,4 @@
-# portfolio
+
 <!DOCTYPE html> <!-- これはHTMLですよ、っていう宣言 -->
 <html lang="ja"> <!-- ページの始まり。日本語のページ -->
 <head>
@@ -8,6 +8,7 @@
   <title>popaipoのポートフォリオ</title> <!-- タブに表示されるタイトル -->
 </head>
 <body>
+  <h1>portfolio</h1>
   <h1>こんにちは！popaipoです</h1> <!-- 一番大きな見出し -->
   <p>これは私のポートフォリオです。</p> <!-- 説明の文章 -->
 
