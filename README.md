@@ -20,6 +20,7 @@
     <li><a href="https://example.com/todo-app" target="_blank">作品A：すごいTodoアプリ</a></li>
   <li><a href="https://example.com/diary" target="_blank">作品B：日記サイト</a></li>
 </ul>
+<h2>その他コンテンツ</h2>
 <div class="rapper-cat"></div>
 </body>
 </html>
