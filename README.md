@@ -1,5 +1,4 @@
 # portfolio
-自分のポートフォリオ用
 <!DOCTYPE html> <!-- これはHTMLですよ、っていう宣言 -->
 <html lang="ja"> <!-- ページの始まり。日本語のページ -->
 <head>
