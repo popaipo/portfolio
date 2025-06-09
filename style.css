@@ -30,8 +30,35 @@ ul {
 }
 body {
   background-image: url('IMG_0768.jpg');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+  background-size: cover;          /* 画面全体にフィット */
+  background-position: center;     /* 画像の中心を表示 */
+  background-repeat: no-repeat;    /* 繰り返さない */
+  font-family: sans-serif;
+  color: #fff;                     /* 白文字にして見やすく */
+  margin: 40px;
 }
 
+/* 背景が明るいのでテキスト読みやすくするためのボックス */
+body > * {
+  background-color: rgba(0, 0, 0, 0.5); /* 黒半透明ボックス */
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+/* タイトル */
+h1 {
+  text-align: center;
+  font-size: 36px;
+  color: #00ffff;
+}
+
+h2 {
+  color: #ffcc00;
+}
+
+p, li, a {
+  font-size: 18px;
+  line-height: 1.6;
+  color: #fff;
+}
