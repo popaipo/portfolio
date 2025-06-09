@@ -20,7 +20,7 @@
     <li><a href="https://example.com/todo-app" target="_blank">作品A：すごいTodoアプリ</a></li>
   <li><a href="https://example.com/diary" target="_blank">作品B：日記サイト</a></li>
 </ul>
-<img src="IMG_0768.jpg" alt="ラッパーねこ" width="300">
 <div class="rapper-cat"></div>
+<img src="IMG_0768.jpg" alt="ラッパーねこ" width="300">
 </body>
 </html>
