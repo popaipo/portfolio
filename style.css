@@ -1,46 +1,16 @@
-/* ページ全体の背景と文字設定 */
-body {
-  background-color: #f0f8ff; /* 薄い水色 */
-  font-family: sans-serif;
-  color: #333;
-  margin: 40px;
-}
-
-/* タイトルを中央にして大きく */
-h1 {
-  text-align: center;
-  font-size: 36px;
-  color: #2a7ae2;
-}
-
-/* セクションタイトルの色 */
-h2 {
-  color: #1d3557;
-}
-
-/* 普通の文章 */
-p {
-  font-size: 18px;
-  line-height: 1.6;
-}
-
-/* 箇条書きのマーク位置を少し左に寄せる */
-ul {
-  padding-left: 20px;
-}
 body {
   background-image: url('IMG_0768.jpg');
-  background-size: cover;          /* 画面全体にフィット */
-  background-position: center;     /* 画像の中心を表示 */
-  background-repeat: no-repeat;    /* 繰り返さない */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   font-family: sans-serif;
-  color: #fff;                     /* 白文字にして見やすく */
+  color: #fff;
   margin: 40px;
 }
 
-/* 背景が明るいのでテキスト読みやすくするためのボックス */
+/* テキストの読みやすさアップ：半透明の黒ボックス */
 body > * {
-  background-color: rgba(0, 0, 0, 0.5); /* 黒半透明ボックス */
+  background-color: rgba(0, 0, 0, 0.5);
   padding: 10px;
   border-radius: 10px;
   margin-bottom: 10px;
@@ -53,12 +23,19 @@ h1 {
   color: #00ffff;
 }
 
+/* セクション見出し */
 h2 {
   color: #ffcc00;
 }
 
+/* 本文・リスト・リンクの共通スタイル */
 p, li, a {
   font-size: 18px;
   line-height: 1.6;
   color: #fff;
+}
+
+/* 箇条書きの左マージン調整 */
+ul {
+  padding-left: 20px;
 }
