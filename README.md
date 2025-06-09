@@ -21,5 +21,6 @@
   <li><a href="https://example.com/diary" target="_blank">作品B：日記サイト</a></li>
 </ul>
 <img src="IMG_0768.jpg" alt="ラッパーねこ" width="300">
+<div class="rapper-cat"></div>
 </body>
 </html>
