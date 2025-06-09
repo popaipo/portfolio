@@ -34,5 +34,6 @@ ul {
   background-image: url('IMG_0768.jpg');
   background-size: cover;
   background-position: center;
+  border: 2px solid red; /* 枠をつけて確認用 */
 }
 
